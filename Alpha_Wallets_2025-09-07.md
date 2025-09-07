@@ -1,4 +1,4 @@
-# Alpha Wallets (2025-09-06)
+# Alpha Wallets (2025-09-07)
 
 | Wallet | Risk Score | Backtesting ROI (SOL) | Portfolio Value (USD) | SOL Balance | Farming Attempts / Total Tokens | Farming Ratio (%) | Median/Avg Risk of Last 10 Tokens | Median/Avg MC of Last 10 Tokens | Winrate (%) | ROI (%) | ROI (1D) (%) | Win Rate 1D (%) | Tokens (1D) | ROI (7D) (%) | Win Rate 7D (%) | Tokens (7D) | ROI (30D) (%) | Win Rate 30D (%) | Tokens (30D) | Realized Gains (USD) | Unrealized Gains (USD) | Median/Avg Holding Time (min) | Buy Size | Median/Avg Profit % Per Trade | Median/Avg Loss % Per Trade |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
